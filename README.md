@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is build to give the insights on AirBnb data to explore its price ranging over the regions and its Top contributors overall in the market. Here we can also get the geo map visualization to check the price scatter between the regions with its latitude and longitude coordinates. Additionally we can see the number of Hosts who hosted more listings in teh given region
+This project is build to give the insights on AirBnb data to explore its price ranging over the regions and its Top contributors overall in the market. Here we can also get the geo map visualization to check the price scatter between the regions with its latitude and longitude coordinates. Additionally we can see the number of Hosts who hosted more listings in the given region
 
 ## Libraries/Modules used for the project!
 1. MongoDB Atlas to extract the sample AirBnb data
